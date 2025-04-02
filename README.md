@@ -31,7 +31,7 @@ This project scrapes [GitHub Topics](https://github.com/topics) to collect infor
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/SattarSanny/github-topic-scraper.git
+   git clone https://github.com/SattarSanny/Git_Topic_Scraper.git
    cd github-topic-scraper
    ```
 
